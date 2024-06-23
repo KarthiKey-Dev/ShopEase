@@ -102,7 +102,3 @@ If you have any questions or need further assistance, feel free to open an issue
 ---
 
 By contributing to **ShopEase**, you'll be part of an exciting journey to build a powerful and user-friendly e-commerce platform. We appreciate your support and look forward to your contributions!
-
----
-
-Feel free to customize this template to better fit your specific requirements and project details.
